@@ -29,3 +29,28 @@ WordPress
 		09/05/25
 ***************************************
 
+al hacer tablas, por ejemplo un colspan se debe hacer desde el HTML del elemento en wordpress
+
+cómo dar css a un HTML, en la ventana de ajustes arriba a la derecha
+
+diferencia entre entrada y página
+	- las entradas tienen fecha concreta, autor, categoría, comentarios
+	- las páginas también son de bloque como las entradas, pero no tienen los elementos que tienen las entradas
+
+Cosas dinámicas -> entradas
+Quienes somos, donde estámos, ect -> son páginas
+
+en los ajustes de la página -> Slug -> es cómo se verá la página en la url. Que no haya espacios en la url
+
+Para subir imágenes y logotipos, primero subirla a la biblioteca de medios y luego ponerlo en el post o página donde se vaya a utilizar
+
+Para el SEO añadir los detalles a las imágenes
+
+Para la parte de contenido dinámico al usar blog, se pueden modificar los comentarios, también crear una validación para moderar comentarios antes de publicarlos.
+
+Añadir permisos a los distintos tipos de usuarios en la pestaña Usuarios
+	-> Subscriptor es el nivel más bajo
+	-> Autor puede crear páginas
+	-> Editor puede editar contenido además de lo anterior
+
+Temas en la pestaña de apariencia es para ver cómo se verá la página. Se pueden programar
