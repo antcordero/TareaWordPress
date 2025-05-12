@@ -1,0 +1,31 @@
+***************************************
+		09/05/25
+***************************************
+
+CMS -> gestionar contenido que se ve en una web
+
+software según instalación
+	-Monopuesto: en un solo ordenador y solo lo usa una persona. Word en un pc
+	-Multipuesto: Cajas del Mercadona. Están en muchos equipos
+	-Cliente/Servidor. navegador
+
+modelos de servicios
+	-IaaS -> servidores físicos
+	-PaaS -> contratar base de datos
+	-SaaS -> contratar software (CRM). Problema: no se tiene control sobre el software
+
+Una empresa empieza en el tercero y conforme va avanzando se mueve hacia el primero
+
+según adaptabilidad
+	- Parametrizable
+	- Programable -> WordPress, usa plugins y también se le puede modificar el núcleo de código
+
+WordPress
+-> localhost:8080 = es el frontend
+-> localhost:8080/wp-admin = es el backend
+
+
+***************************************
+		09/05/25
+***************************************
+
