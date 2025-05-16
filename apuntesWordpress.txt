@@ -54,3 +54,30 @@ Añadir permisos a los distintos tipos de usuarios en la pestaña Usuarios
 	-> Editor puede editar contenido además de lo anterior
 
 Temas en la pestaña de apariencia es para ver cómo se verá la página. Se pueden programar
+
+
+***************************************
+		16/05/25
+***************************************
+
+Modificar la configuración de la biblioteca de medios de WordPress -> php.ini
+No es fácilmente accesible -> cambiar el php.ini en los volúmenes de Docker en el volumen de wordpress_wordpress
+	con esto:
+	upload_max_filesize = 100M
+	post_max_size = 100M
+
+añadir plugins de backup 
+
+
+Apariencia -> temas (el cómo se verá una web) -> nuevo tema e instalar 
+Cada tema tiene plantillas hechas para partir desde ahí o la opción de hacerlo todo desde cero
+
+Se puede reiniciar todo el WordPress si no gusta cómo se ha hecho el tema o subpáginas propias del tema... Parando, borrando WordPress desde Docker y empezar de nuevo y cambiar Ajustes -> Enlaces Permanentes -> Marcar nombre de la entrada
+
+Para el menú: existen el propio menú y la ubicación de menú
+menú = ul con li
+ubicación = dónde se va a poner el menú dependiendo del tema elegido
+
+Se hace en apariencia -> menú -> elegir menú
+
+Inspiro
