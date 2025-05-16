@@ -80,4 +80,4 @@ ubicación = dónde se va a poner el menú dependiendo del tema elegido
 
 Se hace en apariencia -> menú -> elegir menú
 
-Inspiro
+Inspiro -> se puede cambiar el estilo en el inspector de elementos y cambiar en el css en el menú de la izquierda
